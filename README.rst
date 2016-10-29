@@ -41,8 +41,8 @@ You will be asked some questions:
    3 - Process
    Choose from 1, 2, 3 [1]: 1
    
-Once you answered all questions, you will see a new directory created (e.g. `best_pep_ever`).
-Under that directory, you will see a file called `pep_template.rst`.
+Once you answered all questions, you will see a new directory created (e.g. ``best_pep_ever``).
+Under that directory, you will see a file called ``pep_template.rst``.
 
 Congratulations! You drafted a new PEP (unofficially) LOL
 
