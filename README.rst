@@ -19,12 +19,13 @@ After you have cookiecutter installed:
 .. code-block:: bash
 
 	$ cookiecutter https://github.com/Mariatta/pep_cookiecutter
-	Cloning into 'HelloCookieCutter1'...
-	remote: Counting objects: 37, done.
-	Unpacking objects:  21% (8/37)
-	remote: Total 37 (delta 19), reused 21 (delta 3), pack-reused 0
-	Unpacking objects: 100% (37/37), done.
+	Cloning into 'pep_cookiecutter'...
+	remote: Counting objects: 9, done.
+	remote: Compressing objects: 100% (7/7), done.
+	remote: Total 9 (delta 0), reused 5 (delta 0), pack-reused 0
+	Unpacking objects: 100% (9/9), done.
 	Checking connectivity... done.
+
 
 You will be asked some questions:
 
@@ -43,5 +44,5 @@ You will be asked some questions:
 Once you answered all questions, you will see a new directory created (e.g. `best_pep_ever`).
 Under that directory, you will see a file called pep_template.rst.
 
-Congratulations! You unofficially drafted a new P
+Congratulations! You drafted a new PEP (unofficially) LOL
 
