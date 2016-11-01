@@ -3,7 +3,7 @@ pep_cookiecutter
 
 The unofficial way to start authoring your own PEP (Python Enhancement Proposal)
 
-To official way to author a PEP for real is described in PEP 1.
+The official way to author a PEP for real is described in PEP 1.
 
 This is a side project for myself and I don't expect anyone using it other 
 than for entertainment purpose.
