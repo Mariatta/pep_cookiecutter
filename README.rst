@@ -10,6 +10,9 @@ than for entertainment purpose.
 
 Always dreamed of writing your own PEP? You can now get started quickly.
 
+View the demo on asciinema_.
+
+
 .. code-block:: bash
 
 	$ pip install cookiecutter
@@ -158,3 +161,6 @@ Sample PEP
       fill-column: 70
       coding: utf-8
       End:
+
+
+.. _asciinema: https://asciinema.org/a/93898
