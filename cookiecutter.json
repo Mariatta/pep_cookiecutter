@@ -2,6 +2,6 @@
     "project_slug": "best_pep_ever",
     "pep_title": "Awesome PEP Idea",
     "pep_author": "Mariatta",
-    "pep_author_email": "mariatta.wijaya@gmail.com",
+    "pep_author_email": "mariatta@python.org",
     "pep_type": ["Standards Track", "Informational", "Process"]
 }

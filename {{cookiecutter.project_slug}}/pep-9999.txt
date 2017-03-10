@@ -1,4 +1,4 @@
-PEP: XXX
+PEP: 9999
 Title: {{cookiecutter.pep_title}}
 Version: $Revision$
 Last-Modified: $Date$

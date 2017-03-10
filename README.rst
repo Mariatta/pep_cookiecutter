@@ -37,7 +37,7 @@ You will be asked some questions:
    project_slug [best_pep_ever]: 
    pep_title [Awesome PEP Idea]: 
    pep_author [Mariatta]: 
-   pep_author_email [mariatta.wijaya@gmail.com]: 
+   pep_author_email [mariatta@python.org]:
    Select pep_type:
    1 - Standards Track
    2 - Informational
@@ -45,7 +45,7 @@ You will be asked some questions:
    Choose from 1, 2, 3 [1]: 1
    
 Once you answered all questions, you will see a new directory created (e.g. ``best_pep_ever``).
-Under that directory, you will see a file called ``pep-xxxx.txt``.
+Under that directory, you will see a file called ``pep-9999.txt``.
 
 Congratulations! You drafted a new PEP (unofficially) LOL
 
@@ -54,11 +54,11 @@ Sample PEP
 
 :: 
 
-   PEP: XXX
+   PEP: 9999
    Title: Best PEP Ever
    Version: $Revision$
    Last-Modified: $Date$
-   Author: Mariatta <mariatta.wijaya@gmail.com>
+   Author: Mariatta <mariatta@python.org>
    BDFL-Delegate: <PEP czar's real name> (Optional)
    Discussions-To: <email address> (Optional)
    Status: Draft
