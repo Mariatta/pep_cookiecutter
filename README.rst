@@ -45,7 +45,7 @@ You will be asked some questions:
    Choose from 1, 2, 3 [1]: 1
    
 Once you answered all questions, you will see a new directory created (e.g. ``best_pep_ever``).
-Under that directory, you will see a file called ``pep-9999.txt``.
+Under that directory, you will see a file called ``pep-9999.rst``.
 
 Congratulations! You drafted a new PEP (unofficially) LOL
 
