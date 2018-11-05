@@ -15,7 +15,7 @@ View the demo on asciinema_.
 
 .. code-block:: bash
 
-	$ pip install cookiecutter
+	$ python3 -m pip install cookiecutter
 
 After you have cookiecutter installed:
 
